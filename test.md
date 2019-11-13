@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/mgjun/mgjun.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![image-20191113235232755](/Users/emeng/Library/Application Support/typora-user-images/image-20191113235232755.png)
+![image-20191113235539417](/Users/emeng/Documents/self/docs/github/mgjun.github.io/images/image-20191113235539417.png)
 
 ### Markdown
 
