@@ -1,10 +1,14 @@
+---
+typora-root-url: ../mgjun.github.io
+---
+
 ## Welcome to test Pages
 
 You can use the [editor on GitHub](https://github.com/mgjun/mgjun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![image-20191113235539417](/Users/emeng/Documents/self/docs/github/mgjun.github.io/images/image-20191113235539417.png)
+![image-20191114000052009](/images/image-20191114000052009.png)
 
 ### Markdown
 
