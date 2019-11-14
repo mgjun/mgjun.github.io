@@ -48,8 +48,6 @@ class MockTestServiceTest {
 }
 ```
 
-
-
 ####Spy
 
 ​		spy可以监视真实的对象，可以对真实的对象打桩，也可以执行对象的真实方法
@@ -97,8 +95,6 @@ class SpyTestServiceTest {
     }
 }
 ```
-
-
 
 #### InjectMocks
 
@@ -148,11 +144,9 @@ class InjectMocksTestServiceTest {
 }
 ```
 
-
-
 #### 参数捕捉
 
-在verification期间获取方法的参数，获取到参数之后可以对其进行测试
+​	在verification期间获取方法的参数，获取到参数之后可以对其进行测试
 
 ```java
 @ExtendWith(MockitoExtension.class)
@@ -174,13 +168,17 @@ class ArgumentCaptorTest {
 }
 ```
 
-
-
 #### Mockito的限制
 
-以下三种类型不能被测试:
+​	以下三种类型不能被测试:
 
 - final class
+
 - anonymous classes
 - primitive types
 
+#### 参考资料
+
+- [Mockito 官网](http://site.mockito.org)
+- [Mockito github](https://github.com/mockito/mockito)
+- [martinfowler 关于mock vs stub的文章](http://martinfowler.com/articles/mocksArentStubs.html)
