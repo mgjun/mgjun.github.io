@@ -1,10 +1,10 @@
 ## UNIT TEST
 
-​		作为一个开发人员，在项目过程中总会被要求到写单元测试，试图通过单元测试来保证新功能的覆盖率，从而保证功能的正确性。那么，在项目中应该如何来写单元测试？怎样的单元测试才能保证覆盖率或者功能的正确性呢？作为一个写测试经验不是很丰富的我来说，这一点还是比较困惑的，最近看过很多相关的文章，在这里稍作总结。
+作为一个开发人员，在项目过程中总会被要求到写单元测试，试图通过单元测试来保证新功能的覆盖率，从而保证功能的正确性。那么，在项目中应该如何来写单元测试？怎样的单元测试才能保证覆盖率或者功能的正确性呢？作为一个写测试经验不是很丰富的我来说，这一点还是比较困惑的，最近看过很多相关的文章，在这里稍作总结。
 
-		#### 何为单元测试?
+#### 何为单元测试?
 
-​		对于这个问题，在martin关于[微服务如何写测试](https://martinfowler.com/articles/microservice-testing/)中找到一张图，我觉得可以很好的描述这个问题。
+对于这个问题，在martin关于[微服务如何写测试](https://martinfowler.com/articles/microservice-testing/)中找到一张图，我觉得可以很好的描述这个问题。
 
 ​		![image-20191027113857730](images/image-20191027113857730.png)
 
@@ -47,14 +47,9 @@
 
 
 
-
-
-#### 参考资料
-
-- [Martin Unit test](https://martinfowler.com/bliki/UnitTest.html)
-- [Martin SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
-- [Martin TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
-- [Marin 微服务中的测试](https://martinfowler.com/articles/microservice-testing)
-
-- [Test Doubles](http://xunitpatterns.com/Test%20Double.html)
-- [Xunit](https://martinfowler.com/bliki/Xunit.html)
+[^https://martinfowler.com/bliki/UnitTest.html]: Martin unit test
+[^https://martinfowler.com/bliki/SelfTestingCode.html]: Martin SelfTestingCode
+[^https://martinfowler.com/bliki/TestDrivenDevelopment.htm]: Martin TDD
+[^https://martinfowler.com/articles/microservice-testing]: Marin 微服务中的测试
+[^http://xunitpatterns.com/Test%20Double.html]: Test Doubles
+[^https://martinfowler.com/bliki/Xunit.html]: Xunit
