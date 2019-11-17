@@ -8,23 +8,23 @@
 
 ​		![image-20191027113857730](images/image-20191027113857730.png)
 
-​		**单元测试**: 对软件中**最小可测试部分**进行测试，并验证其行为是否符合预期。
+**单元测试**: 对软件中**最小可测试部分**进行测试，并验证其行为是否符合预期。
 
 > *A unit test exercises the smallest piece of testable software in the application to determine whether it behaves as expected*
 
-​		**最小可测试部分**: 通常是指某个类或相关联的几个类的级别上。
+**最小可测试部分**: 通常是指某个类或相关联的几个类的级别上。
 
 #### Sociable unit testing
 
-​		Sociable unit testing 从测试的角度来说比较关注某个功能的整体行为，即从对外暴露的接口开始，将提供整个功能的所有类当做一个测试单元(黑盒)来进行测试。
+Sociable unit testing 从测试的角度来说比较关注某个功能的整体行为，即从对外暴露的接口开始，将提供整个功能的所有类当做一个测试单元(黑盒)来进行测试。
 
 ![image-20191117220812738](images/image-20191117220812738.png)
 
-​		从这个概念上来讲，我认为，Sociable unit testing的着重点在于**功能的整体行为**上，我们的测试应能够很好的说明某个功能具备的行为。
+从这个概念上来讲，我认为，Sociable unit testing的着重点在于**功能的整体行为**上，我们的测试应能够很好的说明某个功能具备的行为。
 
-####Solitary unit testing 
+#### Solitary unit testing 
 
-​		Solitary unit testing 更加关注在某个类的内部行为以及和它交互的依赖上，并通过**[test doubles](http://xunitpatterns.com/Test%20Double.html)**来帮助我们解决在测试时与依赖的解耦。
+Solitary unit testing 更加关注在某个类的内部行为以及和它交互的依赖上，并通过**[test doubles](http://xunitpatterns.com/Test%20Double.html)**来帮助我们解决在测试时与依赖的解耦。
 
 ![image-20191117221713835](images/image-20191117221713835.png)
 
