@@ -45,11 +45,11 @@
 
 
 
+#### 参考资料
 
-
-[^https://martinfowler.com/bliki/UnitTest.html]: Martin unit test
-[^https://martinfowler.com/bliki/SelfTestingCode.html]: Martin SelfTestingCode
-[^https://martinfowler.com/bliki/TestDrivenDevelopment.htm]: Martin TDD
-[^https://martinfowler.com/articles/microservice-testing]: Marin 微服务中的测试
-[^http://xunitpatterns.com/Test%20Double.html]: Test Doubles
-[^https://martinfowler.com/bliki/Xunit.html]: Xunit
+- [Martin Unit test](https://martinfowler.com/bliki/UnitTest.html)
+- [Martin SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
+- [Martin TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [Marin 微服务中的测试](https://martinfowler.com/articles/microservice-testing)
+- [Test Doubles](http://xunitpatterns.com/Test%20Double.html)
+- [Xunit](https://martinfowler.com/bliki/Xunit.html)
