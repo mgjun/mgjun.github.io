@@ -16,6 +16,7 @@
 * [mysql](./mysql/index.md)
 * [sqlserver](./sqlserver/index.md)
 * [mongodb](./mongodb/index.md)
+* [elasticsearch](./elasticsearch/index.md)
 
 ## [缓存](./cache/index.md) 
 
