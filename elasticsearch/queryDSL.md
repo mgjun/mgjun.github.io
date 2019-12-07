@@ -88,6 +88,7 @@ POST _search
 - positive 文档必须匹配positive中的查询条件
 - negative 如果某个文档匹配了positive，同时也匹配negative查询，那这个文档最后的相关性得分将会是(positive中的相关性得分*negative_boost)
   > negative_boost 取值范围为0到1
+
 ```
 GET /_search
 {
