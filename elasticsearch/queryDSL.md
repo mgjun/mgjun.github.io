@@ -6,7 +6,9 @@
 ## Query and filter context
 #### Query context
 Query context 查询的时候，会去计算相关性得分，并将相关性得分较高的放在前面返回。
-> a query clause answers the question “How well does this document match this query clause?” Besides deciding whether or not the document matches, the query clause also calculates a relevance score in the _score meta-field.
+> a query clause answers the question “How well 
+> does this document match this query clause?” Besides deciding whether or not the document matches, the query clause also calculates a relevance score in the _score meta-field.
+
 ```
 GET /_search
 {
