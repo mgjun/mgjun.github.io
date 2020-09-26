@@ -63,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601128213714</updated>
       <workItem from="1601128215767" duration="1401000" />
+      <workItem from="1601133386935" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="docs: add git conversional">
       <created>1601133115722</created>
@@ -87,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs: add git conversional" />
